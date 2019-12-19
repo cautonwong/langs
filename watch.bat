@@ -1,1 +1,1 @@
-watch -w ./src run.bat
+watchexec -w ./src run.bat
