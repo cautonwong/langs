@@ -44,13 +44,11 @@
 
 各语言中比较著名的第三方库的研究
 
-
-
 ## Projects
 
 各语言实现以下的demo、example or projects。探索各语言的应用领域。
 
-### commandLine
+### command line
 
 ### data structure and algorithms
 
