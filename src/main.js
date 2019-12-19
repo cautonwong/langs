@@ -13,12 +13,3 @@ var a2=a1.map(Math.sqrt);
 console.log(a2);
 console.log(user.user.name);
 
-var chatServer = net.createServer()
-chatServer.on('connection',function(client){
-	client.write('Hi!\n')
-	client.on('data',function(data){
-		console.log(data.tostring())
-	})
-})
-
-chatServer.listen(9999)
