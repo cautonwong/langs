@@ -1,0 +1,1 @@
+watch -w ./src run.bat
