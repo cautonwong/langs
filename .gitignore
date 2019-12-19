@@ -1,0 +1,10 @@
+### Project Specific
+target
+
+### Go
+# Output of the coverage tool
+*.out
+
+*.o
+
+*.class
