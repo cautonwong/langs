@@ -14,4 +14,4 @@ node src\main.js
 echo "====push==="
 git add .
 git commit -m "prototype"
-git push -u origin master
+git push
